@@ -1,4 +1,4 @@
-JS project #3
+# JS project #3
  
- # GetHourJS
+ GetHourJS
  
